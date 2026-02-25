@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Rosary",
+  "base_artist": "Don Toliver",
+  "createdAt": "2026-02-25T14:37:02.832981Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rosary",
+      "artist": "Sleigh Bells",
+      "has_synced": true,
+      "path": "select/01_Rosary_Sleigh_Bells.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Blue Jeans And A Rosary",
+      "artist": "Kid Rock",
+      "has_synced": false,
+      "path": "select/02_Blue_Jeans_And_A_Rosary_Kid_Rock.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "From A Pale Blue Rosary",
+      "artist": "Trembling Blue Stars",
+      "has_synced": false,
+      "path": "select/03_From_A_Pale_Blue_Rosary_Trembling_Blue_Stars.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Miracle Of The Rosary",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/04_Miracle_Of_The_Rosary_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rosary",
+      "artist": "Inner Wave",
+      "has_synced": false,
+      "path": "select/05_Rosary_Inner_Wave.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "My Rosary",
+      "artist": "Phinehas",
+      "has_synced": true,
+      "path": "select/06_My_Rosary_Phinehas.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Blue Jeans and a Rosary",
+      "artist": "Kid Rock",
+      "has_synced": true,
+      "path": "select/07_Blue_Jeans_and_a_Rosary_Kid_Rock.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rosary Blue - Radio edit",
+      "artist": "The 69 Eyes feat. Kat Von D",
+      "has_synced": true,
+      "path": "select/08_Rosary_Blue_-_Radio_edit_The_69_Eyes_feat._Kat_Von_D.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rosary Blue (feat. Kat Von D) - Radio edit",
+      "artist": "The 69 Eyes/Kat Von D",
+      "has_synced": true,
+      "path": "select/09_Rosary_Blue_(feat._Kat_Von_D)_-_Radio_edit_The_69_Eyes_Kat_Von_D.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rosary Blue - Edit",
+      "artist": "The 69 Eyes feat. Kat Von D",
+      "has_synced": true,
+      "path": "select/10_Rosary_Blue_-_Edit_The_69_Eyes_feat._Kat_Von_D.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rosary Blue - Edit",
+      "artist": "The 69 Eyes/Kat Von D",
+      "has_synced": true,
+      "path": "select/11_Rosary_Blue_-_Edit_The_69_Eyes_Kat_Von_D.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rosary",
+      "artist": "Gene Loves Jezebel",
+      "has_synced": false,
+      "path": "select/12_Rosary_Gene_Loves_Jezebel.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Black Rosary",
+      "artist": "Saviour",
+      "has_synced": true,
+      "path": "select/13_Black_Rosary_Saviour.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Miracle of the Rosary - Alternate Take 1",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/14_Miracle_of_the_Rosary_-_Alternate_Take_1_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "A Goat In Sheep’s Rosary",
+      "artist": "From Autumn to Ashes",
+      "has_synced": true,
+      "path": "select/15_A_Goat_In_Sheep’s_Rosary_From_Autumn_to_Ashes.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Rosary Blue",
+      "artist": "The 69 Eyes feat. Kat Von D",
+      "has_synced": true,
+      "path": "select/16_Rosary_Blue_The_69_Eyes_feat._Kat_Von_D.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rosary (feat. Travis Scott)",
+      "artist": "Don Toliver, Travis Scott",
+      "has_synced": false,
+      "path": "select/pl_01_Rosary_(feat._Travis_Scott)_Don_Toliver,_Travis_Scott.txt"
+    }
+  ]
+}
